@@ -69,3 +69,5 @@ Không commit `.env`, token, password hoặc deploy hook. File `.env.example` ch
 ## Tài liệu báo cáo
 
 Dùng [report-template.md](report-template.md) làm khung báo cáo 5-10 trang. Cần bổ sung họ tên, mã số, lớp, link GitHub, URL app và video demo trước khi nộp.
+
+Render deploy hook configured.
