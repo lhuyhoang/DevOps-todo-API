@@ -58,16 +58,3 @@ curl http://localhost:3000/api/todos
 5. Có thể kiểm tra image tại `ghcr.io/<github-username>/<repository>`.
 
 Không commit `.env`, token, password hoặc deploy hook. File `.env.example` chỉ chứa giá trị mẫu.
-
-## Chấm điểm bonus đã có
-
-- Health check endpoint và Docker `HEALTHCHECK`.
-- Morgan request logging.
-- Chạy container bằng user không có quyền root.
-- Test coverage command: `npm run test:coverage`.
-
-## Tài liệu báo cáo
-
-Dùng [report-template.md](report-template.md) làm khung báo cáo 5-10 trang. Cần bổ sung họ tên, mã số, lớp, link GitHub, URL app và video demo trước khi nộp.
-
-Render deploy hook configured.
